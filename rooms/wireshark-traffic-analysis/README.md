@@ -3,6 +3,8 @@
 A full walkthrough of the Wireshark: Traffic Analysis room from TryHackMe.  
 This write-up focuses on investigation methodology rather than simply providing answers.
 
+Link to Full Medium Article: https://medium.com/@mohamedfathykamel/wireshark-traffic-analysis-a-complete-tryhackme-walkthrough-11fd4cf82eb5
+
 ---
 
 ## Task 2 — Detecting Nmap Scans
